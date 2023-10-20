@@ -2,7 +2,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MarkoI89&theme=vue-dark&show_icons=true&hide_border=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkoI89&theme=vue-dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoI89&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 <br>
@@ -12,7 +11,7 @@
 </div>
 <div>
 <br >
-- 🌱 I’m currently learning **TypeScript, Python**
+- 🌱 I’m currently learning: <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> <img width="7" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
 
 - 👨‍💻 Here is my portfolio: [https://markoivezic.netlify.app/](https://markoivezic.netlify.app/)
 
