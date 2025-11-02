@@ -13,7 +13,6 @@
 <br >
 - 🌱 I’m currently learning: <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> <img width="7" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
 
-- 👨‍💻 Here is my portfolio: [https://markoivezic.netlify.app/](https://markoivezic.netlify.app/)
 
 - 📫 How to reach me **markoivezic89@gmail.com**
  </div>
