@@ -11,8 +11,6 @@
 </div>
 <div>
 <br >
-- 🌱 I’m currently learning: <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> <img width="7" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-
 
 - 📫 How to reach me **markoivezic89@gmail.com**
  </div>
