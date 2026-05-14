@@ -27,7 +27,6 @@ Hi 👋! My name is **Marko Ivezic**, and I'm a **Full Stack Web Developer** fro
 - 💻 MERN & Next.js Developer
 - 🚀 Focused on building scalable web apps & SaaS products
 - 🧠 Passionate about clean code, performance & SEO
-- 📚 Currently learning C# & expanding into backend development
 - 🌍 Open to freelance / remote opportunities
 
 ---
@@ -70,6 +69,12 @@ Hi 👋! My name is **Marko Ivezic**, and I'm a **Full Stack Web Developer** fro
 
 ---
 
+## 🧰 Currently learning
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" />
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="left">
@@ -88,7 +93,7 @@ Hi 👋! My name is **Marko Ivezic**, and I'm a **Full Stack Web Developer** fro
 
 ---
 
-## 🔥 Activity
+## 🔥 Trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=MarkoI89&theme=tokyonight&no-frame=true&row=1&column=7" />
 
