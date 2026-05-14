@@ -1,54 +1,107 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarkoI89&theme=vue-dark&show_icons=true&hide_border=false&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoI89&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=MarkoI89&show_icons=true&theme=shadow_blue"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=MarkoI89&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MarkoI89&show_icons=true" />
+</picture>
+
 </div>
+
 <br>
-<br >
-<div>
-  <p align="left">Hi 👋! My name is Marko Ivezic and I'm a Full Stack Web Developer, from Serbia based in Paris</p>
-</div>
-<div>
-<br >
 
-- 📫 How to reach me **markoivezic89@gmail.com**
- </div>
- <br>
- 
+---
 
-###
+## 👋 About Me
 
-###
+Hi 👋! My name is **Marko Ivezic**, and I'm a **Full Stack Web Developer** from Serbia, based in Paris 🇫🇷
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="nodejs logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-</div>
+- 💻 MERN & Next.js Developer
+- 🚀 Focused on building scalable web apps & SaaS products
+- 🧠 Passionate about clean code, performance & SEO
+- 📚 Currently learning C# & expanding into backend development
+- 🌍 Open to freelance / remote opportunities
 
-###
+---
+
+## 📫 Contact
+
+- 📧 Private Email: **markoivezic89@gmail.com**
+- 📧 Business Email: **info@miwebdev.com
+- 🌐 Website: https://www.miwebdev.com
+- 💼 LinkedIn: https://www.linkedin.com/in/marko-ivezic/
+- 📸 Instagram: https://www.instagram.com/mare_ivezic/
+
+---
+
+## 🧰 Tech Stack
 
 <div align="left">
-  <a href="https://www.instagram.com/mare_ivezic/" ><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="https://www.linkedin.com/in/marko-ivezic/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
+
+<div align="left">
+
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=MarkoI89&show_icons=true&theme=shadow_blue&count_private=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarkoI89&layout=compact&theme=shadow_blue" />
+
+</div>
+
+---
+
+## 🔥 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkoI89&theme=tokyo-night" />
+
+---
+
+## 🌐 Socials
+
+<div align="left">
+
+<a href="https://www.instagram.com/mare_ivezic/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/marko-ivezic/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
 
 <br clear="both">
-
-###
