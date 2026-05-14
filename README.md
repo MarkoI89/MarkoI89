@@ -88,6 +88,13 @@ Hi 👋! My name is **Marko Ivezic**, and I'm a **Full Stack Web Developer** fro
 
 ---
 
+## 🔥 Activity
+
+<img src="https://github-profile-trophy.vercel.app/?username=MarkoI89&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+---
+
+
 ## 🌐 Socials
 
 <div align="left">
